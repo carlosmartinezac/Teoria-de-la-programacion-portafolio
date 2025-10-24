@@ -1,12 +1,12 @@
 <div align="center">
 
 <h1>🏛️ UNIVERSIDAD NACIONAL DE LOJA</h1>
-<h2>💡 FACULTAD DE LA ENERGÍA, LAS INDUSTRIAS Y LOS RECURSOS NATURALES NO RENOVABLES</h2>
-<h3>💻 INGENIERÍA EN CIENCIAS DE LA COMPUTACIÓN</h3>
+<h1>💡 FACULTAD DE LA ENERGÍA, LAS INDUSTRIAS Y LOS RECURSOS NATURALES NO RENOVABLES</h1>
+<h2>💻 INGENIERÍA EN CIENCIAS DE LA COMPUTACIÓN</h2>
 
 <hr>
 
-<h2>📘 Teoría de la Programación</h2>
+<h3>📘 Teoría de la Programación</h2>
 <h3>📅 Septiembre 2025 - Febrero 2026</h3>
 <h3>🧩 Ciclo 1</h3>
 
@@ -19,6 +19,8 @@
 <hr>
 
 <h3>👨‍🎓 Estudiante: CARLOS ALBERTO MARTÍNEZ CARRIÓN</h3>
+
+<hr>
 
 <h1>Portafolio Digital de Aprendizaje – Teoría de la
 Programación</h1>
