@@ -20,19 +20,13 @@
 
 <h3>👨‍🎓 Estudiante: CARLOS ALBERTO MARTÍNEZ CARRIÓN</h3>
 
+<h1>Portafolio Digital de Aprendizaje – Teoría de la
+Programación</h1>
+
 </div>
 
 
 
-
-
-
-
-
-
-
-# 💻 Teoría de la Programación  
-## 📁 Portafolio Digital de Aprendizaje  
 
 # [Unidad 1](Uni.md)
 # [Unidad 1](Unidades/Unidad1.md)
