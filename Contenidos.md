@@ -20,6 +20,19 @@ Es muy utilizado como paso previo a la codificación, ya que muestra de forma vi
 
 [Ejemplo](cinco.png)
 
+---
+
+🧱 Programación por bloques
+
+La programación por bloques es una forma visual de crear programas mediante el uso de bloques gráficos que representan instrucciones o acciones.
+Cada bloque tiene una función específica —como leer datos, realizar operaciones o mostrar resultados— y se conecta con otros como si fueran piezas de un rompecabezas.
+Este método facilita el aprendizaje de la lógica de programación, ya que no requiere escribir código, sino comprender cómo se relacionan las instrucciones.
+
+Se utiliza principalmente en entornos educativos y plataformas como Scratch o Blockly, que permiten construir programas de manera intuitiva y dinámica.
+Gracias a su diseño visual, los estudiantes pueden entender el flujo del algoritmo, identificar errores con facilidad y desarrollar el pensamiento lógico de forma práctica.
+
+📸 Aquí puedes insertar una imagen de un ejemplo de programación por bloques.
+
 
 ● Programación por bloques.
 ● Ejemplos de algoritmos con
