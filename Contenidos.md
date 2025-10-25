@@ -31,7 +31,7 @@ Este método facilita el aprendizaje de la lógica de programación, ya que no r
 Se utiliza principalmente en entornos educativos y plataformas como Scratch o Blockly, que permiten construir programas de manera intuitiva y dinámica.
 Gracias a su diseño visual, los estudiantes pueden entender el flujo del algoritmo, identificar errores con facilidad y desarrollar el pensamiento lógico de forma práctica.
 
-[Ejemplo](bloques.psc)
+[Ejemplo](bloques.png)
 
 
 ● Programación por bloques.
