@@ -22,7 +22,7 @@ Es muy utilizado como paso previo a la codificación, ya que muestra de forma vi
 
 ---
 
-🧱 Programación por bloques
+# 🧱 Programación por bloques
 
 La programación por bloques es una forma visual de crear programas mediante el uso de bloques gráficos que representan instrucciones o acciones.
 Cada bloque tiene una función específica —como leer datos, realizar operaciones o mostrar resultados— y se conecta con otros como si fueran piezas de un rompecabezas.
@@ -33,7 +33,17 @@ Gracias a su diseño visual, los estudiantes pueden entender el flujo del algori
 
 [Ejemplo](bloques.png)
 
+---
 
+# ⚙️ Algoritmos con estructuras lineales o secuenciales
+
+Los algoritmos secuenciales (también llamados lineales) son aquellos en los que las instrucciones se ejecutan una después de otra, siguiendo un orden fijo y sin saltos o decisiones.
+Cada paso depende del anterior, y el proceso termina cuando todas las acciones han sido realizadas.
+Este tipo de estructura es la más básica en la programación y se utiliza cuando no existen condiciones (if) ni repeticiones (bucles).
+
+Estos son algunos ejemplos comunes de algoritmos secuenciales:
+
+[Ejemplo en C](ejercicio1.c)
 ● Programación por bloques.
 ● Ejemplos de algoritmos con
 estructuras lineales/secuenciales.
