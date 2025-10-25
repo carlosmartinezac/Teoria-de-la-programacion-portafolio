@@ -30,11 +30,10 @@ Programación</h1>
 
 
 
-# [Unidad 1](Uni.md)
-# [Unidad 1](Unidades/Unidad1.md)
+
 
 ### 🧩 Unidad 1: Fundamentos de la Programación
-[algoritmos](Unidad1.md)
+# [Unidad 1](Unidades/Unidad1.md)
 
 ---
 
