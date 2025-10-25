@@ -1,4 +1,4 @@
-Algoritmo cinco
+Algoritmo ejemplo
 	//Datos de entrada
 	Definir hora Como Real
 	Definir precioHora Como Real
@@ -23,3 +23,4 @@ Algoritmo cinco
 	Escribir "El cobro total es: ",cobro
 	
 FinAlgoritmo
+
