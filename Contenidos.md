@@ -43,7 +43,7 @@ Este tipo de estructura es la más básica en la programación y se utiliza cuan
 
 Estos son algunos ejemplos comunes de algoritmos secuenciales:
 
-[Ejemplo en C](ejercicio1.c)
+[Ejemplo en C](ejercicio1.c)  [Ejemplo en Pseudocódigo](ejercicio1.psc)
 ● Programación por bloques.
 ● Ejemplos de algoritmos con
 estructuras lineales/secuenciales.
