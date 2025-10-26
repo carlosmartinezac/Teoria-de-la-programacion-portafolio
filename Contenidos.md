@@ -74,8 +74,3 @@ Aunque al inicio hubo dificultades con la sintaxis y los tipos de datos, la prá
 
 En conjunto, esta unidad contribuyó al desarrollo de una base sólida para continuar aprendiendo programación, valorando la importancia de planificar, estructurar y entender la lógica antes de escribir código.
 
-● Principales dificultades en la
-aplicación de los contenidos.
-● Reflexión crítica de los
-aprendizajes de la unidad.
-
