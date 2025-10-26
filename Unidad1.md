@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<h2>🧩 Unidad 1 — Algoritmos y Estructuras Secuenciales</h2>
+<h2>🧩 Unidad 1</h2>
 <h4>📘 Teoría de la Programación</h4>
 
 ---
