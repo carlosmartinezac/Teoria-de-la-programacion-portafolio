@@ -15,7 +15,7 @@ A través del uso de pseudocódigo, diagramas de flujo y programas en lenguaje C
 
 ---
 
-### 📂 Contenidos de la Unidad
+### 📚 Contenidos de la Unidad
 > En esta sección se presentan los temas principales trabajados en la Unidad 1:  
 > algoritmos, pseudocódigo, diagramas de flujo, programación por bloques y la reflexión final sobre el aprendizaje.
 
