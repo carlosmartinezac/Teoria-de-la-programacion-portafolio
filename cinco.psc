@@ -1,3 +1,5 @@
+[Atras](Contenidos.md)
+
 Algoritmo ejemplo
 	//Datos de entrada
 	Definir hora Como Real
@@ -23,4 +25,5 @@ Algoritmo ejemplo
 	Escribir "El cobro total es: ",cobro
 	
 FinAlgoritmo
+
 
