@@ -7,7 +7,7 @@
 
 </div>
 
-🧩 Algoritmos, pseudocódigo y diagramas de flujo
+### 🧩 **1. Algoritmos, pseudocódigo y diagramas de flujo**
 
 Los algoritmos son conjuntos ordenados de pasos que permiten resolver un problema o realizar una tarea específica.
 Cada instrucción debe ser clara y lógica, de modo que el proceso pueda ejecutarse sin confusión.
@@ -31,7 +31,7 @@ Es muy utilizado como paso previo a la codificación, ya que muestra de forma vi
 
 ---
 
-🧱 Programación por bloques
+### 🧱 **2. Programación por bloques**
 
 La programación por bloques es una forma visual de crear programas mediante el uso de bloques gráficos que representan instrucciones o acciones.
 Cada bloque tiene una función específica —como leer datos, realizar operaciones o mostrar resultados— y se conecta con otros como si fueran piezas de un rompecabezas.
@@ -44,7 +44,7 @@ Gracias a su diseño visual, los estudiantes pueden entender el flujo del algori
 
 ---
 
-⚙️ Algoritmos con estructuras lineales o secuenciales
+### ⚙️ **3.Algoritmos con estructuras lineales o secuenciales**
 
 Los algoritmos secuenciales (también llamados lineales) son aquellos en los que las instrucciones se ejecutan una después de otra, siguiendo un orden fijo y sin saltos o decisiones.
 Cada paso depende del anterior, y el proceso termina cuando todas las acciones han sido realizadas.
@@ -58,7 +58,7 @@ Estos son algunos ejemplos comunes de algoritmos secuenciales:
 
 ---
 
-⚠️ Principales dificultades en la aplicación de los contenidos
+### ⚠️ **4. Principales dificultades en la aplicación de los contenidos**
 
 Durante el aprendizaje de los fundamentos de la programación, una de las principales dificultades fue memorizar y aplicar correctamente los comandos y tipos de datos del lenguaje C.
 Al comenzar a escribir los primeros programas, resultó confuso recordar qué tipo de dato utilizar en cada caso, por ejemplo:
@@ -71,7 +71,7 @@ A pesar de estas dificultades iniciales, con la práctica se logró una mejor co
 
 ---
 
-💭 Reflexión crítica de los aprendizajes de la unidad
+### 💭 **5.Reflexión crítica de los aprendizajes de la unidad**
 
 La Unidad 1 permitió desarrollar una comprensión más profunda del pensamiento lógico y del proceso que sigue un programa desde su diseño hasta su ejecución.
 A través del estudio de los algoritmos, pseudocódigos y diagramas de flujo, se fortalecieron las habilidades para analizar problemas y transformarlos en pasos ordenados, aplicando estructuras secuenciales que reflejan la lógica del proceso computacional.
