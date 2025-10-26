@@ -47,6 +47,18 @@ Estos son algunos ejemplos comunes de algoritmos secuenciales:
 
 [Ejemplo 2 en C](ejercicio2.c) · [Ejemplo 2 en Pseudocódigo](ejercicio2.psc)
 
+---
+
+# ⚠️ Principales dificultades en la aplicación de los contenidos
+
+Durante el aprendizaje de los fundamentos de la programación, una de las principales dificultades fue memorizar y aplicar correctamente los comandos y tipos de datos del lenguaje C.
+Al comenzar a escribir los primeros programas, resultó confuso recordar qué tipo de dato utilizar en cada caso, por ejemplo:
+int para números enteros, float para valores decimales, char para caracteres individuales o double para datos de mayor precisión.
+
+También generó dudas el uso de los especificadores de formato en las funciones de entrada y salida, como %d para enteros, %f para decimales o %lf para valores tipo double.
+Estos detalles son fundamentales para que el programa funcione correctamente, pero requieren práctica constante y atención a la sintaxis para evitar errores de ejecución.
+
+A pesar de estas dificultades iniciales, con la práctica se logró una mejor comprensión de la estructura del lenguaje y del modo en que se relacionan los tipos de datos con las instrucciones de los algoritmos.
 
 ● Principales dificultades en la
 aplicación de los contenidos.
