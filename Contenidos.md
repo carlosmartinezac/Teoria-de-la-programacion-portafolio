@@ -1,3 +1,5 @@
+[Atrás](Unidad1.md)
+
 # 🧩 Algoritmos, pseudocódigo y diagramas de flujo
 
 Los algoritmos son conjuntos ordenados de pasos que permiten resolver un problema o realizar una tarea específica.
@@ -59,6 +61,18 @@ También generó dudas el uso de los especificadores de formato en las funciones
 Estos detalles son fundamentales para que el programa funcione correctamente, pero requieren práctica constante y atención a la sintaxis para evitar errores de ejecución.
 
 A pesar de estas dificultades iniciales, con la práctica se logró una mejor comprensión de la estructura del lenguaje y del modo en que se relacionan los tipos de datos con las instrucciones de los algoritmos.
+
+---
+
+# 💭 Reflexión crítica de los aprendizajes de la unidad
+
+La Unidad 1 permitió desarrollar una comprensión más profunda del pensamiento lógico y del proceso que sigue un programa desde su diseño hasta su ejecución.
+A través del estudio de los algoritmos, pseudocódigos y diagramas de flujo, se fortalecieron las habilidades para analizar problemas y transformarlos en pasos ordenados, aplicando estructuras secuenciales que reflejan la lógica del proceso computacional.
+
+El trabajo con el lenguaje C ayudó a relacionar la teoría con la práctica, comprendiendo cómo los algoritmos se traducen en instrucciones que la computadora puede ejecutar.
+Aunque al inicio hubo dificultades con la sintaxis y los tipos de datos, la práctica permitió mejorar la precisión, la atención al detalle y la capacidad de razonamiento lógico.
+
+En conjunto, esta unidad contribuyó al desarrollo de una base sólida para continuar aprendiendo programación, valorando la importancia de planificar, estructurar y entender la lógica antes de escribir código.
 
 ● Principales dificultades en la
 aplicación de los contenidos.
