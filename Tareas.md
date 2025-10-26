@@ -19,7 +19,6 @@ Se elaboraron los respectivos pseudocódigos y diagramas de flujo para reforzar 
 
 📎 [Ver evidencia en Google Drive](https://drive.google.com/file/d/1-I2cvUTzuWSGtgOe1XZIsz71YMkp65zS/view?usp=drive_link)
 
-📸 *Puedes agregar aquí capturas del pseudocódigo o diagrama de flujo.*
 
 ---
 
