@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h2>🧰 Contenido de la unidad — Unidad 1</h2>
+<h2>📚 Contenido de la unidad — Unidad 1</h2>
 <h4>📘 Teoría de la Programación</h4>
 
 </div>
