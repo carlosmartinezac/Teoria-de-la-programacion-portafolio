@@ -33,7 +33,7 @@ Programación</h1>
 
 
 ### 🧩 Unidad 1: Fundamentos de la Programación
-# [Unidad 1](Unidades/Unidad1.md)
+# [Unidad 1](Unidad1.md)
 
 ---
 
