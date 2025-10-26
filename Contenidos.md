@@ -47,9 +47,7 @@ Estos son algunos ejemplos comunes de algoritmos secuenciales:
 
 [Ejemplo 2 en C](ejercicio2.c) · [Ejemplo 2 en Pseudocódigo](ejercicio2.psc)
 
-● Programación por bloques.
-● Ejemplos de algoritmos con
-estructuras lineales/secuenciales.
+
 ● Principales dificultades en la
 aplicación de los contenidos.
 ● Reflexión crítica de los
