@@ -27,24 +27,6 @@ Programación</h1>
 
 </div>
 
-
-
-<div align="center">
-
-<h2>🧩 Unidad 1 — Algoritmos y estructuras secuenciales</h2>
-
-<a href="Unidad1.md" style="
-  background-color:#2ea44f;
-  color:white;
-  padding:10px 18px;
-  border-radius:8px;
-  text-decoration:none;
-  font-size:18px;">
-  📂 Abrir Unidad 1
-</a>
-
-</div>
-
 ---
 
 
