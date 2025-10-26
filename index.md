@@ -31,25 +31,25 @@ Programación</h1>
 
 
 
-### 🧩 Unidad 1
+## 🧩 Unidad 1
 [🔗 Ver contenido de la Unidad 1](Unidad1.md)
 
 ---
 
-### ⚙️ Unidad 2: Estructuras y Algoritmos  
+## ⚙️ Unidad 2: Estructuras y Algoritmos  
 
 ---
 
-### 🧠 Unidad 3: Aplicaciones Prácticas  
+## 🧠 Unidad 3: Aplicaciones Prácticas  
 
 ---
 
-### 🪄 Conclusiones  
+## 🪄 Conclusiones  
 
 ---
 
-### 📚 Referencias  
+## 📚 Referencias  
 
 ---
 
-### 🤖 Uso de IA Generativa  
+## 🤖 Uso de IA Generativa  
