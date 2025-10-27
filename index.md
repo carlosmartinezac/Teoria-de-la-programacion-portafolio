@@ -50,6 +50,15 @@ Programación</h1>
 
 ## 📚 Referencias  
 
+[1]Universidad Cooperativa de Colombia, F. Y. Patiño Martínez, C. I. Torres Londoño, and P. Chica Sosa, “Elaboración de diagramas de flujo básicos,” Ediciones Universidad Cooperativa de Colombia, 2023. doi: 10.16925/gcgp.82.
+
+[2]A. López-García and J. Urquiza-Fuentes, “Comprensión de pseudocódigo básico en estudiantes de ciclos formativos,” RISTI - Revista Ibérica de Sistemas e Tecnologias de Informação, 2023, [Online]. Available: https://api.semanticscholar.org/CorpusID:267143166
+  
+
+
+  
+
+
 ---
 
 ## 🤖 Uso de IA Generativa  
