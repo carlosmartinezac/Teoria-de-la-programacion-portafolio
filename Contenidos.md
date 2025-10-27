@@ -56,6 +56,8 @@ Estos son algunos ejemplos comunes de algoritmos secuenciales:
 
 [Ejemplo 2 en C](ejercicio2.c) · [Ejemplo 2 en Pseudocódigo](ejercicio2.psc)
 
+[Ejemplo 3 en C](ejercicio3.c) · [Ejemplo 3 en Pseudocódigo](ejercicio3.psc)
+
 ---
 
 ### ⚠️ **4. Principales dificultades en la aplicación de los contenidos**
