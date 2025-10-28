@@ -48,3 +48,11 @@ Además, se reflexionó sobre la importancia del pseudocódigo como herramienta 
 
 ---
 
+### 🧮 **4. Del diseño del algoritmo con estructuras secuenciales a la construcción del programa**
+
+Esta práctica tuvo como propósito **aplicar las estructuras secuenciales en el diseño de algoritmos y su posterior implementación en lenguaje C**, completando el proceso desde el análisis del problema hasta la ejecución del programa.  
+
+El ejercicio consistió en resolver una situación real: determinar **la nota mínima que un estudiante necesita obtener en el tercer certamen (C3)** para aprobar la asignatura con una nota final de 60/100.  
+A partir de esta situación, se elaboró el **análisis del problema**, el **pseudocódigo**, el **diagrama de flujo**, y finalmente el **programa en C** que realiza los cálculos automáticamente.
+
+📎 [Ver evidencia en Google Drive](https://drive.google.com/file/d/1e7mNGtbxsC5VQjppqWy-X7XFlr1HeL0K/view?usp=drive_link)
