@@ -55,4 +55,4 @@ Esta práctica tuvo como propósito **aplicar las estructuras secuenciales en el
 El ejercicio consistió en resolver una situación real: determinar **la nota mínima que un estudiante necesita obtener en el tercer certamen (C3)** para aprobar la asignatura con una nota final de 60/100.  
 A partir de esta situación, se elaboró el **análisis del problema**, el **pseudocódigo**, el **diagrama de flujo**, y finalmente el **programa en C** que realiza los cálculos automáticamente.
 
-📎 [Ver evidencia en Google Drive](https://drive.google.com/file/d/1e7mNGtbxsC5VQjppqWy-X7XFlr1HeL0K/view?usp=drive_link)
+📎 [Ver evidencia en Google Drive](https://drive.google.com/file/d/126ku_uBGsx_5X7aqTuAQS5-vM2hUKvrg/view?usp=drive_link)
