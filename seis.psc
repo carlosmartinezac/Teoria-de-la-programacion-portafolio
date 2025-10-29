@@ -1,4 +1,4 @@
-Algoritmo ejemplo 1
+Algoritmo b
 	//Variables
 	Definir dinero Como real;
 	Definir costo Como real;
@@ -14,4 +14,5 @@ Algoritmo ejemplo 1
 	//Datos de salida
 	Escribir "Su cambio es: ",cambio;
 FinAlgoritmo
+
 
