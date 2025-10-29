@@ -1,6 +1,4 @@
-<h2 id="conclusiones">🪄 Conclusiones</h2>
-
-
+- [Conclusiones 🪄](#conclusiones-)
 
 
 <div align="center">
