@@ -64,6 +64,18 @@ Los algoritmos secuenciales (también llamados lineales) son aquellos en los que
 Cada paso depende del anterior, y el proceso termina cuando todas las acciones han sido realizadas.
 Este tipo de estructura es la más básica en la programación y se utiliza cuando no existen condiciones (if) ni repeticiones (bucles).
 
+#### 🖥️ **Cómo se ejecutan los programas en C**
+
+Para ejecutar un programa en C se deben seguir dos pasos principales:
+
+*1. Compilar el programa:*
+Esto convierte el código fuente (.c) en un archivo ejecutable.
+En la terminal se usa el comando: gcc nombre_del_programa.c -o nombre_del_programa
+
+
+*2. Ejecutar el programa:*
+Una vez compilado, se ejecuta con el siguiente comando: ./nombre_del_programa
+
 Estos son algunos ejemplos comunes de algoritmos secuenciales:
 
 > En el ejemplo 1 pide al usuario que ingrese un número entero y luego calcula su doble y su triple. Primero guarda el número ingresado en la variable numero, después multiplica por 2 y por 3 para obtener doble y triple. Finalmente, muestra en pantalla ambos resultados.
