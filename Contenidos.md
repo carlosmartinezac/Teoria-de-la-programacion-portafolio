@@ -27,7 +27,7 @@ Es muy utilizado como paso previo a la codificación, ya que muestra de forma vi
 
 > El ejemplo 1 permite calcular el cambio que una persona recibe después de realizar una compra. Solicita la cantidad de dinero disponible y el costo del producto, realiza la resta entre ambas cantidades y muestra el valor del cambio que corresponde devolver.
 
-[Ejemplo 1 en pseudocódigo](seis.psc) · [Ejemplo 1 en diagrama de flujo](seis.png)
+[Ejemplo 1 en pseudocódigo](seis.psc) · [Ejemplo 1 en diagrama de flujo](seis.png) · [Ejemplo 1, prueba de escritorio](tabla1.md)
 
 > El ejemplo 2 calcula el volumen de un prisma rectangular. Pide al usuario que ingrese las medidas de sus tres lados (A, B y C), multiplica esos valores para obtener el volumen y finalmente muestra el resultado en pantalla.
 
