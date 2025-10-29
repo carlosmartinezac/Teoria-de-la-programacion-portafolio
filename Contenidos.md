@@ -44,7 +44,17 @@ Este método facilita el aprendizaje de la lógica de programación, ya que no r
 Se utiliza principalmente en entornos educativos y plataformas como Scratch o Blockly, que permiten construir programas de manera intuitiva y dinámica.
 Gracias a su diseño visual, los estudiantes pueden entender el flujo del algoritmo, identificar errores con facilidad y desarrollar el pensamiento lógico de forma práctica.
 
-[Ejemplo](bloques.png)
+> En el ejemplo 3 hace que un personaje se mueva en dos fases: primero avanza en línea recta de forma continua, y luego realiza un movimiento en zig-zag avanzando, girando, avanzando y corrigiendo la dirección.
+
+[Ejemplo 1 de programacion por bloques](df1.png)
+
+> En el ejemplo 2 tiene dos bucles: el primero avanza y gira, repitiendo hasta una condición. El segundo avanza dos veces, gira izquierda y avanza otra vez, también en un bucle. Ambos se ejecutan hasta cumplir condiciones específicas como chocar o llegar.
+
+[Ejemplo 3 de programacion por bloques](df2.png)
+
+> En el ejemplo 3 hace que el personaje avance y gire repetidamente hasta que haya un camino a la izquierda. Cuando detecta un camino libre a la izquierda, gira y corre hacia ese lado, luego avanza.
+
+[Ejemplo 3 de programacion por bloques](df3.png)
 
 ---
 
