@@ -3,8 +3,10 @@
 
 int main() {
     
+    //Variables
     double x1, x2, y1, y2, distancia;
 
+    //Datos de entrada
     printf("Escriba el valor de x1\n");
     scanf("%lf", &x1);
 
@@ -17,10 +19,13 @@ int main() {
     printf("Escriba el valor de y2\n");
     scanf("%lf", &y2);
 
+    //Proceso
     distancia = sqrt(pow(x2 - x1, 2) + pow(y2 - y1, 2));
 
+    //Datos de salida
     printf("La distancia entre estos 2 puntos es: %lf\n", distancia);
 
     return 0;
 }
+
 
