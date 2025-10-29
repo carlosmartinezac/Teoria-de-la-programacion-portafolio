@@ -29,9 +29,15 @@ El diagrama de flujo representa gráficamente los pasos de un algoritmo mediante
 Facilita la visualización de la lógica, la detección de errores y la comunicación de la estructura del programa.
 Es muy utilizado como paso previo a la codificación, ya que muestra de forma visual cómo fluye la información.
 
-[Ejemplo 1](seis.png)
+Este código permite calcular el cambio que una persona recibe después de realizar una compra. Solicita la cantidad de dinero disponible y el costo del producto, realiza la resta entre ambas cantidades y muestra el valor del cambio que corresponde devolver.
 
-[Ejemplo 2](cinco.png)
+[Ejemplo 1 en pseudocódigo](seis.psc) · [Ejemplo 1 en diagrama de flujo](seis.png)
+
+[Ejemplo 2 en pseudocódigo](cinco.psc) · [Ejemplo 2 en diagrama](cinco.png)
+
+
+
+
 
 ---
 
