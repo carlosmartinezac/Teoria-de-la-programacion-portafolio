@@ -1,4 +1,4 @@
-- [⚙️ Algoritmos Secuenciales](##🪄Conclusiones)
+- [⚙️ Algoritmos Secuenciales](##conclusiones)
 
 
 <div align="center">
