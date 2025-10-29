@@ -1,5 +1,5 @@
-| Encabezado 1 | Encabezado 2 | Encabezado 3 |
-|--------------|--------------|--------------|
-| Fila 1 Col1  | Fila 1 Col2  | Fila 1 Col3  |
-| Fila 2 Col1  | Fila 2 Col2  | Fila 2 Col3  |
-| Fila 3 Col1  | Fila 3 Col2  | Fila 3 Col3  |
+| Caso | Dinero ingresado | Costo del producto | Proceso | Resultado |
+|------|-----------------|-----------------|----------------------------------|------------------|
+| 1    | 20              | 15              | 20 - 15                          | 5                |
+| 2    | 50              | 12.5            | 50 - 12.5                        | 37.5             |
+| 3    | 10              | 10              | 10 - 10                          | 0                |
