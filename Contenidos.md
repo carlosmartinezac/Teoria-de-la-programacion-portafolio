@@ -19,17 +19,13 @@ El pseudocódigo es una forma escrita y estructurada de expresar un algoritmo, u
 Permite representar las acciones de manera ordenada antes de convertirlas en código real.
 Es una herramienta intermedia que ayuda a planificar y comprender el funcionamiento del programa.
 
-[Ejemplo 1](seis.psc)
-
-[Ejemplo 2](cinco.psc)
-
 🔹 Diagrama de flujo
 
 El diagrama de flujo representa gráficamente los pasos de un algoritmo mediante símbolos y flechas que indican el orden del proceso.
 Facilita la visualización de la lógica, la detección de errores y la comunicación de la estructura del programa.
 Es muy utilizado como paso previo a la codificación, ya que muestra de forma visual cómo fluye la información.
 
-Este código permite calcular el cambio que una persona recibe después de realizar una compra. Solicita la cantidad de dinero disponible y el costo del producto, realiza la resta entre ambas cantidades y muestra el valor del cambio que corresponde devolver.
+El ejemplo 1 permite calcular el cambio que una persona recibe después de realizar una compra. Solicita la cantidad de dinero disponible y el costo del producto, realiza la resta entre ambas cantidades y muestra el valor del cambio que corresponde devolver.
 
 [Ejemplo 1 en pseudocódigo](seis.psc) · [Ejemplo 1 en diagrama de flujo](seis.png)
 
