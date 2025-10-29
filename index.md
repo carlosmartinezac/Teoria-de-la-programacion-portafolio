@@ -1,4 +1,4 @@
-- [⚙️ Algoritmos Secuenciales](##Referencias)
+- [⚙️ Algoritmos Secuenciales](#hola)
 
 
 <div align="center">
@@ -37,7 +37,7 @@ Programación</h1>
 ## 🧩 Unidad 1
 [🔗 Ver contenido de la Unidad 1](Unidad1.md)
 
-
+# hola
 ---
 
 ## ⚙️ Unidad 2: Estructuras y Algoritmos  
