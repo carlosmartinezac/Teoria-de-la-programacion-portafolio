@@ -70,7 +70,7 @@ Estos son algunos ejemplos comunes de algoritmos secuenciales:
 
 [Ejemplo 1 en C](ejercicio1.c) · [Ejemplo 1 en Pseudocódigo](ejercicio1.psc)
 
-> El ejemplo 1 permite calcular el cambio que una persona recibe después de realizar una compra. Solicita la cantidad de dinero disponible y el costo del producto, realiza la resta entre ambas cantidades y muestra el valor del cambio que corresponde devolver.
+> En el ejemplo 2 convierte una medida dada en pies a otras unidades de longitud. El usuario ingresa un valor en pies, y el programa calcula su equivalente en yardas, pulgadas, centímetros y metros mediante las fórmulas de conversión. Finalmente, muestra todos los resultados en pantalla.
 
 [Ejemplo 2 en C](ejercicio2.c) · [Ejemplo 2 en Pseudocódigo](ejercicio2.psc)
 
