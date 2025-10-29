@@ -31,7 +31,7 @@ Es muy utilizado como paso previo a la codificación, ya que muestra de forma vi
 
 > El ejemplo 2 calcula el volumen de un prisma rectangular. Pide al usuario que ingrese las medidas de sus tres lados (A, B y C), multiplica esos valores para obtener el volumen y finalmente muestra el resultado en pantalla.
 
-[Ejemplo 2 en pseudocódigo](cinco.psc) · [Ejemplo 2 en diagrama de flujo](cinco.png)
+[Ejemplo 2 en pseudocódigo](cinco.psc) · [Ejemplo 2 en diagrama de flujo](cinco.png) · [Ejemplo 2, prueba de escritorio](tabla2.md)
 
 ---
 
@@ -80,15 +80,15 @@ Estos son algunos ejemplos comunes de algoritmos secuenciales:
 
 > En el ejemplo 1 pide al usuario que ingrese un número entero y luego calcula su doble y su triple. Primero guarda el número ingresado en la variable numero, después multiplica por 2 y por 3 para obtener doble y triple. Finalmente, muestra en pantalla ambos resultados.
 
-[Ejemplo 1 en C](ejercicio1.c) · [Ejemplo 1 en Pseudocódigo](ejercicio1.psc)
+[Ejemplo 1 en C](ejercicio1.c) · [Ejemplo 1 en Pseudocódigo](ejercicio1.psc) · [Ejemplo 1, prueba de escritorio](tabla3.md)
 
 > En el ejemplo 2 convierte una medida dada en pies a otras unidades de longitud. El usuario ingresa un valor en pies, y el programa calcula su equivalente en yardas, pulgadas, centímetros y metros mediante las fórmulas de conversión. Finalmente, muestra todos los resultados en pantalla.
 
-[Ejemplo 2 en C](ejercicio2.c) · [Ejemplo 2 en Pseudocódigo](ejercicio2.psc)
+[Ejemplo 2 en C](ejercicio2.c) · [Ejemplo 2 en Pseudocódigo](ejercicio2.psc) · [Ejemplo 2, prueba de escritorio](tabla4.md)
 
 > En el ejemplo 3 calcula la distancia entre dos puntos en un plano cartesiano. Solicita al usuario las coordenadas x1, y1, x2, y2, luego aplica la fórmula de la distancia usando funciones matemáticas (pow y sqrt) para obtener el resultado. Finalmente, muestra la distancia calculada en pantalla.
 
-[Ejemplo 3 en C](ejercicio3.c) · [Ejemplo 3 en Pseudocódigo](ejercicio3.psc)
+[Ejemplo 3 en C](ejercicio3.c) · [Ejemplo 3 en Pseudocódigo](ejercicio3.psc) · [Ejemplo 3, prueba de escritorio](tabla5.md)
 
 ---
 
