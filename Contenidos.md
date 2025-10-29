@@ -29,9 +29,9 @@ El diagrama de flujo representa gráficamente los pasos de un algoritmo mediante
 Facilita la visualización de la lógica, la detección de errores y la comunicación de la estructura del programa.
 Es muy utilizado como paso previo a la codificación, ya que muestra de forma visual cómo fluye la información.
 
+[Ejemplo 1](seis.png)
 
-
-[Ejemplo 1](cinco.png)
+[Ejemplo 2](cinco.png)
 
 ---
 
