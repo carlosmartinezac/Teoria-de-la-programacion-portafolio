@@ -1,3 +1,6 @@
+- [⚙️ Algoritmos Secuenciales](##Referencias)
+
+
 <div align="center">
 
 <h1>🏛️ UNIVERSIDAD NACIONAL DE LOJA</h1>
