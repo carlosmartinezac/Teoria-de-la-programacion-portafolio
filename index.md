@@ -1,4 +1,5 @@
-- [🪄 Conclusiones](#conclusiones)
+<h2 id="conclusiones">🪄 Conclusiones</h2>
+
 
 
 <div align="center">
