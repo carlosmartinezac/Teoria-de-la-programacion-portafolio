@@ -1,7 +1,3 @@
-- [Conclusiones 🪄](#conclusiones-)
-- - [Conclusiones](#-conclusiones)
-
-
 
 <div align="center">
 
@@ -33,6 +29,14 @@ Programación</h1>
 </div>
 
 ---
+# Índice
+
+- [Unidad 1 🧩](#-unidad-1)
+- [Unidad 2: Estructuras y Algoritmos ⚙️](#-unidad-2-estructuras-y-algoritmos)
+- [Unidad 3: Aplicaciones Prácticas 🧠](#-unidad-3-aplicaciones-practicas)
+- [Conclusiones 🪄](#-conclusiones)
+- [Referencias 📚](#-referencias)
+- [Uso de IA Generativa 🤖](#-uso-de-ia-generativa)
 
 
 
