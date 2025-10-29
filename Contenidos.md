@@ -29,11 +29,9 @@ Es muy utilizado como paso previo a la codificación, ya que muestra de forma vi
 
 [Ejemplo 1 en pseudocódigo](seis.psc) · [Ejemplo 1 en diagrama de flujo](seis.png)
 
+> El ejemplo 2 calcula el volumen de un prisma rectangular. Pide al usuario que ingrese las medidas de sus tres lados (A, B y C), multiplica esos valores para obtener el volumen y finalmente muestra el resultado en pantalla.
+
 [Ejemplo 2 en pseudocódigo](cinco.psc) · [Ejemplo 2 en diagrama](cinco.png)
-
-
-
-
 
 ---
 
