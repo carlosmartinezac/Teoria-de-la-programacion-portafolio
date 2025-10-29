@@ -74,7 +74,7 @@ Estos son algunos ejemplos comunes de algoritmos secuenciales:
 
 [Ejemplo 2 en C](ejercicio2.c) · [Ejemplo 2 en Pseudocódigo](ejercicio2.psc)
 
-> El ejemplo 1 permite calcular el cambio que una persona recibe después de realizar una compra. Solicita la cantidad de dinero disponible y el costo del producto, realiza la resta entre ambas cantidades y muestra el valor del cambio que corresponde devolver.
+> En el ejemplo 3 calcula la distancia entre dos puntos en un plano cartesiano. Solicita al usuario las coordenadas x1, y1, x2, y2, luego aplica la fórmula de la distancia usando funciones matemáticas (pow y sqrt) para obtener el resultado. Finalmente, muestra la distancia calculada en pantalla.
 
 [Ejemplo 3 en C](ejercicio3.c) · [Ejemplo 3 en Pseudocódigo](ejercicio3.psc)
 
