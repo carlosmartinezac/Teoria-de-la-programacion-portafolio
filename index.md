@@ -35,7 +35,6 @@ Programación</h1>
 [🔗 Ver contenido de la Unidad 1](Unidad1.md)
 
 
-[algoritmos ver](ejercicio1.c)
 ---
 
 ## ⚙️ Unidad 2: Estructuras y Algoritmos  
@@ -59,12 +58,9 @@ Programación</h1>
 [3]P. V. Duque, Diseño estructurado de algoritmos aplicados en PSEINT. 2021.
   
 
-
-
-
-  
-
-
 ---
 
 ## 🤖 Uso de IA Generativa  
+
+Durante el desarrollo del portafolio digital se utilizó la herramienta ChatGPT de OpenAI como apoyo académico y técnico.
+Su uso se centró en la orientación para la organización del contenido, la redacción formal de textos explicativos, y la generación de estructuras en formato Markdown (.md) para la creación del portafolio en GitHub.
