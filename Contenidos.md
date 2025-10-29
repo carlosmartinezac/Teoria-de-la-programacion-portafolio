@@ -66,9 +66,15 @@ Este tipo de estructura es la más básica en la programación y se utiliza cuan
 
 Estos son algunos ejemplos comunes de algoritmos secuenciales:
 
+> En el ejemplo 1 pide al usuario que ingrese un número entero y luego calcula su doble y su triple. Primero guarda el número ingresado en la variable numero, después multiplica por 2 y por 3 para obtener doble y triple. Finalmente, muestra en pantalla ambos resultados.
+
 [Ejemplo 1 en C](ejercicio1.c) · [Ejemplo 1 en Pseudocódigo](ejercicio1.psc)
 
+> El ejemplo 1 permite calcular el cambio que una persona recibe después de realizar una compra. Solicita la cantidad de dinero disponible y el costo del producto, realiza la resta entre ambas cantidades y muestra el valor del cambio que corresponde devolver.
+
 [Ejemplo 2 en C](ejercicio2.c) · [Ejemplo 2 en Pseudocódigo](ejercicio2.psc)
+
+> El ejemplo 1 permite calcular el cambio que una persona recibe después de realizar una compra. Solicita la cantidad de dinero disponible y el costo del producto, realiza la resta entre ambas cantidades y muestra el valor del cambio que corresponde devolver.
 
 [Ejemplo 3 en C](ejercicio3.c) · [Ejemplo 3 en Pseudocódigo](ejercicio3.psc)
 
