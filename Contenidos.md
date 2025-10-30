@@ -48,7 +48,7 @@ Gracias a su diseño visual, los estudiantes pueden entender el flujo del algori
 
 [Ejemplo 1 de programacion por bloques](df1.png)
 
-> En el ejemplo 2 hace que el personaje avance 2 veces y luego gire a la izquierda. Luego repite el mismo moovimiento de avanzar hasta llegar a la meta.
+> En el ejemplo 2 hace que el personaje avance 2 veces y luego gire a la izquierda. Luego repite el mismo movimiento de avanzar hasta llegar a la meta.
 
 [Ejemplo 3 de programacion por bloques](df2.png)
 
