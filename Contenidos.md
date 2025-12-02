@@ -25,6 +25,11 @@ El diagrama de flujo representa gráficamente los pasos de un algoritmo mediante
 Facilita la visualización de la lógica, la detección de errores y la comunicación de la estructura del programa.
 Es muy utilizado como paso previo a la codificación, ya que muestra de forma visual cómo fluye la información.
 
+🔹 Prueba de escritorio
+
+Una prueba de escritorio es una técnica utilizada en programación para simular manualmente la ejecución de un algoritmo o código, revisando paso a paso cómo cambian las variables, qué operaciones se realizan y cuál es el resultado final.
+Se usa para verificar que la lógica del programa sea correcta antes de ejecutarlo en la computadora, detectando errores, fallos de cálculo o condiciones mal planteadas.
+
 > El ejemplo 1 permite calcular el cambio que una persona recibe después de realizar una compra. Solicita la cantidad de dinero disponible y el costo del producto, realiza la resta entre ambas cantidades y muestra el valor del cambio que corresponde devolver.
 
 [Ejemplo 1 en pseudocódigo](seis.psc) · [Ejemplo 1 en diagrama de flujo](seis.png) · [Ejemplo 1, prueba de escritorio](tabla1.md)
@@ -44,13 +49,13 @@ Este método facilita el aprendizaje de la lógica de programación, ya que no r
 Se utiliza principalmente en entornos educativos y plataformas como Scratch o Blockly, que permiten construir programas de manera intuitiva y dinámica.
 Gracias a su diseño visual, los estudiantes pueden entender el flujo del algoritmo, identificar errores con facilidad y desarrollar el pensamiento lógico de forma práctica.
 
-> En el ejemplo 3 hace que un personaje se mueva en dos fases: primero avanza en línea recta de forma continua, y luego realiza un movimiento en zig-zag avanzando, girando, avanzando y corrigiendo la dirección.
+> En el ejemplo 1 hace que un personaje se mueva en dos fases: primero avanza en línea recta de forma continua, y luego realiza un movimiento en zig-zag avanzando, girando, avanzando y corrigiendo la dirección.
 
 [Ejemplo 1 de programacion por bloques](df1.png)
 
 > En el ejemplo 2 hace que el personaje avance 2 veces y luego gire a la izquierda. Luego repite el mismo movimiento de avanzar hasta llegar a la meta.
 
-[Ejemplo 3 de programacion por bloques](df2.png)
+[Ejemplo 2 de programacion por bloques](df2.png)
 
 > En el ejemplo 3 hace que el personaje avance y gire repetidamente hasta que haya un camino a la izquierda. Cuando detecta un camino libre a la izquierda, gira y corre hacia ese lado, luego avanza.
 
