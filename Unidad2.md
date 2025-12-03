@@ -67,7 +67,7 @@ No es un tipo de estructura condicional, sino solo una forma de organizar varias
 
 Las estructuras repetitivas permiten ejecutar un conjunto de instrucciones varias veces mientras se cumpla una condición.
 
----
+## Tipos de estructuras repetitivas
 
 ### 1. Repetición mientras se cumpla una condición (WHILE)
 La estructura while ejecuta un bloque de instrucciones *mientras* una condición lógica sea verdadera.  
