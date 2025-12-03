@@ -69,9 +69,7 @@ Las estructuras repetitivas permiten ejecutar un conjunto de instrucciones varia
 
 ---
 
-
-
-### ● Repetición mientras se cumpla una condición (WHILE)
+### 1. Repetición mientras se cumpla una condición (WHILE)
 La estructura while ejecuta un bloque de instrucciones *mientras* una condición lógica sea verdadera.  
 Se usa cuando no se conoce cuántas repeticiones serán necesarias, ya que depende de una condición que puede cambiar durante la ejecución.
 > Ejemplo  
@@ -80,7 +78,7 @@ Se usa cuando no se conoce cuántas repeticiones serán necesarias, ya que depen
 
 ---
 
-### ● Repetición que se ejecuta al menos una vez (DO–WHILE)
+### 2. Repetición que se ejecuta al menos una vez (DO–WHILE)
 La estructura do–while es similar al *while*, pero con una diferencia importante:  
 el bloque de código se ejecuta al menos una vez, porque la condición se evalúa al final.
 > Ejemplo  
@@ -89,7 +87,7 @@ el bloque de código se ejecuta al menos una vez, porque la condición se evalú
 
 ---
 
-### ● Repetición controlada por contador (FOR)
+### 3. Repetición controlada por contador (FOR)
 La estructura for ejecuta un bloque de instrucciones un número específico de veces.  
 Es ideal cuando sabemos exactamente cuántas repeticiones deben realizarse, ya que utiliza un contador que avanza en cada iteración.
 
