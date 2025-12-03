@@ -13,76 +13,89 @@
 ## ■ Estructuras condicionales (tipos y ejercicios en diagrama de flujo y en C)
 
 Las estructuras condicionales son construcciones de un programa que permiten tomar decisiones según si una condición es verdadera o falsa.
-Su propósito es que el algoritmo no siga siempre el mismo camino, sino que pueda ejecutar diferentes instrucciones dependiendo de la situación.
-
-En otras palabras, una estructura condicional analiza una condición lógica (por ejemplo: si una variable es mayor que otra) y, según el resultado, decide qué bloque de código ejecutar.
-
-Se utilizan para resolver problemas donde se requiere comparar valores, verificar estados o controlar el flujo del programa.
+Su propósito es que el algoritmo ejecute distintos caminos de acuerdo con las condiciones evaluadas.
 
 ## Tipos de estructuras condicionales
-
-A continuación se describen los tipos de estructuras condicionales más comunes en programación:
 
 ### 1. Condicional simple (IF)
 Se ejecuta un bloque de instrucciones solo si la condición es verdadera.
 
-> Ejemplo
+> Ejemplo  
 
-[Ejemplo en pseudocódigo](estructuracondicional.psc) · [Ejemplo en C](estructuracondicional.c) · [Ejemplo en diagrama](estructuracondicional.png)
+[Ejemplo en C](estructurasCondicionales.c) · [Diagrama de flujo](estructurasCondicionales.png) · [Prueba de escritorio](estructurasCondicionales.md)
 
 ---
 
 ### 2. Condicional doble (IF–ELSE)
 Permite ejecutar un bloque si la condición es verdadera y otro si es falsa.
 
-> Ejemplo
+> Ejemplo  
 
-[Ejemplo en pseudocódigo](condicionaldoble.psc) · [Ejemplo en C](condicionaldoble.c) · [Ejemplo en diagrama](condicionaldoble.png)
+[Ejemplo en C](estructurasCondicionales1.c) · [Diagrama de flujo](estructurasCondicionales1.png) · [Prueba de escritorio](estructurasCondicionales1.md)
 
 ---
 
 ### 3. Condicional múltiple (IF – ELSE IF)
-Permite evaluar varias condiciones diferentes de manera secuencial hasta encontrar la primera que se cumpla.
+Permite evaluar varias condiciones una tras otra hasta encontrar la que se cumple.
 
-> Ejemplo
+> Ejemplo  
 
-[Ejemplo en pseudocódigo](condicionalmultiple.psc) · [Ejemplo en C](condicionalmultiple.c) · [Ejemplo en diagrama](condicionalmultiple.png)
+[Ejemplo en C](estructurasCondicionales2.c) · [Diagrama de flujo](estructurasCondicionales2.png) · [Prueba de escritorio](estructurasCondicionales2.md)
 
 ---
 
 ### 4. Condicional múltiple (SWITCH)
-La estructura switch permite seleccionar entre varias alternativas según el valor de una variable. Es útil cuando se necesita ejecutar distintas acciones dependiendo de un mismo dato.
+Permite elegir entre varias opciones según el valor de una variable.
 
-> Ejemplo
+> Ejemplo  
 
-[Ejemplo en pseudocódigo](switch.psc) · [Ejemplo en C](switch.c) · [Ejemplo en diagrama](switch.png)
+[Ejemplo en C](estructurasCondicionales3.c) · [Diagrama de flujo](estructurasCondicionales3.png) · [Prueba de escritorio](estructurasCondicionales3.md)
 
 ---
 
-### 5. Anidamiento de condicionales
-El anidamiento consiste en colocar una instrucción IF dentro de otra para evaluar casos más específicos. No se considera un tipo de estructura condicional, sino una forma de organizar varias condiciones dentro de una misma decisión.
+### 5. Anidamiento de condicionales  
+El anidamiento consiste en colocar una instrucción IF dentro de otra para evaluar casos más específicos.  
+No es un tipo de estructura condicional, sino solo una forma de organizar varias decisiones dentro de otra.
 
-> Ejemplo
+> Ejemplo  
 
-[Ejemplo en pseudocódigo](anidado.psc) · [Ejemplo en C](anidado.c) · [Ejemplo en diagrama](anidado.png)
-
+[Ejemplo en C](estructurasCondicionales4.c) · [Diagrama de flujo](estructurasCondicionales4.png) · [Prueba de escritorio](estructurasCondicionales4.md)
 
 ---
 
 ## ■ Estructuras repetitivas (tipos y ejercicios en diagrama de flujo y en C)
 
-Las estructuras repetitivas, también llamadas bucles, permiten ejecutar un conjunto de instrucciones varias veces mientras se cumpla una condición.
-Son útiles cuando necesitamos repetir cálculos, recorrer datos o realizar procesos que dependen de un conteo o una condición lógica.
+Las estructuras repetitivas permiten ejecutar un conjunto de instrucciones varias veces mientras se cumpla una condición.
 
-Existen diferentes tipos de bucles según cómo y cuándo se verifica la condición:
+---
 
-🔹Repetición controlada por contador (for)
 
-🔹Repetición mientras se cumpla una condición (while)
 
-🔹Repetición que se ejecuta al menos una vez (do–while)
+### ● Repetición mientras se cumpla una condición (WHILE)
+La estructura while ejecuta un bloque de instrucciones *mientras* una condición lógica sea verdadera.  
+Se usa cuando no se conoce cuántas repeticiones serán necesarias, ya que depende de una condición que puede cambiar durante la ejecución.
+> Ejemplo  
 
-Estas estructuras permiten automatizar tareas repetitivas y reducir código innecesario, haciéndolo más eficiente y ordenado.
+[Ejemplo en C](estructurasRepetitivas.c) · [Diagrama de flujo](estructurasRepetitivas.png) · [Prueba de escritorio](estructurasRepetitivas.md)
+
+---
+
+### ● Repetición que se ejecuta al menos una vez (DO–WHILE)
+La estructura do–while es similar al *while*, pero con una diferencia importante:  
+el bloque de código se ejecuta al menos una vez, porque la condición se evalúa al final.
+> Ejemplo  
+
+[Ejemplo en C](estructurasRepetitivas1.c) · [Diagrama de flujo](estructurasRepetitivas1.png) · [Prueba de escritorio](estructurasRepetitivas1.md)
+
+---
+
+### ● Repetición controlada por contador (FOR)
+La estructura for ejecuta un bloque de instrucciones un número específico de veces.  
+Es ideal cuando sabemos exactamente cuántas repeticiones deben realizarse, ya que utiliza un contador que avanza en cada iteración.
+
+> Ejemplo  
+
+[Ejemplo en C](estructurasRepetitivas2.c) · [Diagrama de flujo](estructurasRepetitivas2.png) · [Prueba de escritorio](estructurasRepetitivas2.md)
 
 ---
 
@@ -114,4 +127,3 @@ Contenido aquí.
 
 ## ■ Tareas entregadas
 Contenido aquí.
-
