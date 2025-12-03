@@ -20,7 +20,8 @@ Su propósito es que el algoritmo ejecute distintos caminos de acuerdo con las c
 ### 1. Condicional simple (IF)
 Se ejecuta un bloque de instrucciones solo si la condición es verdadera.
 
-> Ejemplo  
+> Este programa pide un número entero y verifica si es impar.
+> Si el residuo de dividirlo para 2 es 1, muestra un mensaje indicando que el número es impar.
 
 [Ejemplo en C](estructurasCondicionales.c) · [Diagrama de flujo](estructurasCondicionales.png) · [Prueba de escritorio](estructurasCondicionales.md)
 
