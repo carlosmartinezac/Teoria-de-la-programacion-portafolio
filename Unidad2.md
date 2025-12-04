@@ -30,7 +30,9 @@ Se ejecuta un bloque de instrucciones solo si la condición es verdadera.
 ### 2. Condicional doble (IF–ELSE)
 Permite ejecutar un bloque si la condición es verdadera y otro si es falsa.
 
-> Ejemplo  
+> El programa solicita un número entero y verifica si es múltiplo de 3.
+> Para esto utiliza el operador módulo (%), que obtiene el residuo de dividir el número para 3.
+> Si el residuo es 0, el número es múltiplo de 3; de lo contrario, no lo es.
 
 [Ejemplo en C](estructurasCondicionales1.c) · [Diagrama de flujo](estructurasCondicionales1.png) · [Prueba de escritorio](estructurasCondicionales1.md)
 
