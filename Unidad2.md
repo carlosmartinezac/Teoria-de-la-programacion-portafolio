@@ -52,7 +52,8 @@ Permite evaluar varias condiciones una tras otra hasta encontrar la que se cumpl
 ### 4. Condicional múltiple (SWITCH)
 Permite elegir entre varias opciones según el valor de una variable.
 
-> Ejemplo  
+> El programa solicita dos números y un operador aritmético (+, –, *, /). Luego realiza la operación indicada y muestra el resultado. Si el operador no es válido, muestra un mensaje de
+> error.  
 
 [Ejemplo en C](estructurasCondicionales3.c) · [Diagrama de flujo](estructurasCondicionales3.png) · [Prueba de escritorio](estructurasCondicionales3.md)
 
