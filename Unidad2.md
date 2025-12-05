@@ -41,7 +41,9 @@ Permite ejecutar un bloque si la condición es verdadera y otro si es falsa.
 ### 3. Condicional múltiple (IF – ELSE IF)
 Permite evaluar varias condiciones una tras otra hasta encontrar la que se cumple.
 
-> Ejemplo  
+> El programa solicita dos números enteros y un operador aritmético (+, -, *, /).
+> Según el operador ingresado, realiza la operación correspondiente entre A y B y muestra el resultado.
+> Si el operador no es válido, informa al usuario.
 
 [Ejemplo en C](estructurasCondicionales2.c) · [Diagrama de flujo](estructurasCondicionales2.png) · [Prueba de escritorio](estructurasCondicionales2.md)
 
