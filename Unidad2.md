@@ -114,14 +114,11 @@ El programa pide números al usuario uno por uno. Mientras el número sea mayor 
 Cada vez que el usuario ingresa un número par, se suma 1 al contador.  
 Cuando el usuario ingresa un número negativo, el ciclo termina y se muestra cuántos números pares ingresó.
 
-### Diagrama de flujo simplificado
-[Ver](programa.png)
+### Diagrama de flujo simplificado: [Ver](programa.png)
 
-### Programa
-[Ver](ejercicio.py)
+### Programa: [Ver](ejercicio.py)
 
-### Verificación
-[Ver](programa.md)
+### Verificación: [Ver](programa.md)
 
 ---
 
