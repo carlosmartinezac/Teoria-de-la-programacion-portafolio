@@ -136,17 +136,13 @@ Esta unidad me ayudó a comprender que programar no es solo escribir instruccion
 
 ## ◆ Tareas entregadas
 
-### ACD 1: [Ver](ejercicio.py)
+### APE 1: [Ver](https://drive.google.com/file/d/1hvClNRFKVM6wBp1Aw-ZTY5MgIQ3n0ZVN/view?usp=sharing)
 
-### ACD 2: [Ver](ejercicio.py)
+### APE 2: [Ver](https://drive.google.com/file/d/1KqRlw_peKou9j7Rc553qlEv0EFZPS71o/view?usp=drive_link)
 
-### APE 1: [Ver](ejercicio.py)
+### AA 1: [Ver](https://drive.google.com/file/d/15wq8zyULEBjEgXlziB9Gao1QChKqQy6X/view?usp=drive_link)
 
-### APE 2: [Ver](ejercicio.py)
-
-### AA 1: [Ver](ejercicio.py)
-
-### AA 2: [Ver](ejercicio.py)
+### AA 2: [Ver](https://drive.google.com/file/d/13FxjAYLmk9ZhrksNKhKMog47Ca2Nug9L/view?usp=drive_link)
 
 
 
