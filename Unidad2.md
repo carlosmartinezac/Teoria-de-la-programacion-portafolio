@@ -63,7 +63,8 @@ Permite elegir entre varias opciones según el valor de una variable.
 El anidamiento consiste en colocar una instrucción IF dentro de otra para evaluar casos más específicos.  
 No es un tipo de estructura condicional, sino solo una forma de organizar varias decisiones dentro de otra.
 
-> Ejemplo  
+> El programa pide dos números y primero verifica si el primero es mayor que el segundo; si esto ocurre, dentro del mismo bloque comprueba si ese primer número es
+> par o impar. Si el primer número no es mayor, muestra que el segundo número es mayor o igual.
 
 [Ejemplo en C](estructurasCondicionales4.c) · [Diagrama de flujo](estructurasCondicionales4.png) · [Prueba de escritorio](estructurasCondicionales4.md)
 
