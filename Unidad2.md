@@ -135,4 +135,18 @@ Esta unidad me ayudó a comprender que programar no es solo escribir instruccion
 ---
 
 ## ◆ Tareas entregadas
-Contenido aquí.
+
+### ACD 1: [Ver](ejercicio.py)
+
+### ACD 2: [Ver](ejercicio.py)
+
+### APE 1: [Ver](ejercicio.py)
+
+### APE 2: [Ver](ejercicio.py)
+
+### AA 1: [Ver](ejercicio.py)
+
+### AA 2: [Ver](ejercicio.py)
+
+
+
