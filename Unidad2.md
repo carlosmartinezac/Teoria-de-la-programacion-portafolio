@@ -114,11 +114,11 @@ El programa pide números al usuario uno por uno. Mientras el número sea mayor 
 Cada vez que el usuario ingresa un número par, se suma 1 al contador.  
 Cuando el usuario ingresa un número negativo, el ciclo termina y se muestra cuántos números pares ingresó.
 
-### Diagrama de flujo simplificado: [Ver](programa.png)
+### Diagrama de flujo simplificado: [Ver contenido](programa.png)
 
-### Programa: [Ver](ejercicio.py)
+### Programa: [Ver contenido](ejercicio.py)
 
-### Verificación: [Ver](programa.md)
+### Verificación: [Ver contenido](programa.md)
 
 ---
 
@@ -136,13 +136,13 @@ Esta unidad me ayudó a comprender que programar no es solo escribir instruccion
 
 ## ◆ Tareas entregadas
 
-### APE 1: [Ver](https://drive.google.com/file/d/1hvClNRFKVM6wBp1Aw-ZTY5MgIQ3n0ZVN/view?usp=sharing)
+### APE 1: [Ver contenido en google drive](https://drive.google.com/file/d/1hvClNRFKVM6wBp1Aw-ZTY5MgIQ3n0ZVN/view?usp=sharing)
 
-### APE 2: [Ver](https://drive.google.com/file/d/1KqRlw_peKou9j7Rc553qlEv0EFZPS71o/view?usp=drive_link)
+### APE 2: [Ver contenido en google drive](https://drive.google.com/file/d/1KqRlw_peKou9j7Rc553qlEv0EFZPS71o/view?usp=drive_link)
 
-### AA 1: [Ver](https://drive.google.com/file/d/15wq8zyULEBjEgXlziB9Gao1QChKqQy6X/view?usp=drive_link)
+### AA 1: [Ver contenido en google drive](https://drive.google.com/file/d/15wq8zyULEBjEgXlziB9Gao1QChKqQy6X/view?usp=drive_link)
 
-### AA 2: [Ver](https://drive.google.com/file/d/13FxjAYLmk9ZhrksNKhKMog47Ca2Nug9L/view?usp=drive_link)
+### AA 2: [Ver contenido en google drive](https://drive.google.com/file/d/13FxjAYLmk9ZhrksNKhKMog47Ca2Nug9L/view?usp=drive_link)
 
 
 
