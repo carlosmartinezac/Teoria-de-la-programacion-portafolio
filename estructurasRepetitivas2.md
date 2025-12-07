@@ -10,3 +10,5 @@
 | 49        | 50 | 1/50      | 3.470143…        |
 | 50        | 50 | (fin)     | 3.499205    |
 
+
+![Descripción](estructurasRepetitivas2p.png)
