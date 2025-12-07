@@ -7,3 +7,5 @@
 | 5         | 4                | 6                  | 6 + 4   | 5                  | 10                   |
 | 6         | 5                | 10                 | 10 + 5  | 6                  | 15                   |
 
+
+![Descripción](estructurasRepetitivasp.png)
