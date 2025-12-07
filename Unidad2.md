@@ -109,16 +109,16 @@ Es ideal cuando sabemos exactamente cuántas repeticiones deben realizarse, ya q
 ## ■ Ejercicio combinando estructura condicional y repetitiva (Java o Python)
 
 ### ● Descripción del problema
-Contenido aquí.
+El programa pide números al usuario uno por uno. Mientras el número sea mayor o igual a 0, sigue pidiendo más. Cada vez que el usuario ingresa un número par, se suma 1 al contador. Cuando el usuario ingresa un número negativo, el ciclo termina y se muestra cuántos números pares ingresó.
 
 ### ● Diagrama de flujo simplificado
-Contenido aquí.
+[Ver](programa.png)
 
 ### ● Programa
-Contenido aquí.
+[Ver](ejercicio.py)
 
 ### ● Verificación
-Contenido aquí.
+[Ver](programa.md)
 
 ---
 
