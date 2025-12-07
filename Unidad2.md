@@ -88,7 +88,8 @@ Se usa cuando no se conoce cuántas repeticiones serán necesarias, ya que depen
 ### 2. Repetición que se ejecuta al menos una vez (DO–WHILE)
 La estructura do–while es similar al *while*, pero con una diferencia importante:  
 el bloque de código se ejecuta al menos una vez, porque la condición se evalúa al final.
-> Ejemplo  
+> El programa utiliza un ciclo do–while para pedir números al usuario y cuenta cuántos de ellos son positivos. El ciclo continúa hasta que se ingresa un número
+> negativo o cero.
 
 [Ejemplo en C](estructurasRepetitivas1.c) · [Diagrama de flujo](estructurasRepetitivas1.png) · [Prueba de escritorio](estructurasRepetitivas1.md)
 
