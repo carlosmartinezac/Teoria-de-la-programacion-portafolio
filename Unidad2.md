@@ -79,7 +79,7 @@ Las estructuras repetitivas permiten ejecutar un conjunto de instrucciones varia
 ### 1. Repetición mientras se cumpla una condición (WHILE)
 La estructura while ejecuta un bloque de instrucciones *mientras* una condición lógica sea verdadera.  
 Se usa cuando no se conoce cuántas repeticiones serán necesarias, ya que depende de una condición que puede cambiar durante la ejecución.
-> Ejemplo  
+> El programa suma los números desde 0 hasta 5 usando un ciclo while, acumulándolos uno por uno en una variable hasta obtener el total de la suma.
 
 [Ejemplo en C](estructurasRepetitivas.c) · [Diagrama de flujo](estructurasRepetitivas.png) · [Prueba de escritorio](estructurasRepetitivas.md)
 
