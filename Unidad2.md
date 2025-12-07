@@ -99,7 +99,8 @@ el bloque de código se ejecuta al menos una vez, porque la condición se evalú
 La estructura for ejecuta un bloque de instrucciones un número específico de veces.  
 Es ideal cuando sabemos exactamente cuántas repeticiones deben realizarse, ya que utiliza un contador que avanza en cada iteración.
 
-> Ejemplo  
+> El programa utiliza un ciclo for para sumar las fracciones 1/n desde n = 2 hasta n = 50, acumulando el resultado en la variable suma. Al final muestra el total
+> obtenido.
 
 [Ejemplo en C](estructurasRepetitivas2.c) · [Diagrama de flujo](estructurasRepetitivas2.png) · [Prueba de escritorio](estructurasRepetitivas2.md)
 
