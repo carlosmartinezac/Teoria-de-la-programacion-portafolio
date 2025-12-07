@@ -36,6 +36,7 @@ Programación</h1>
 ---
 
 ## ⚙️ Unidad 2: Estructuras y Algoritmos  
+[🔗 Ver contenido de la Unidad 2](Unidad2.md)
 
 ---
 
