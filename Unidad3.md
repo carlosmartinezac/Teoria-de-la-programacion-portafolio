@@ -37,7 +37,7 @@ El pase por referencia permite que una función trabaje directamente con la vari
 
 Este tipo de paso se utiliza cuando se necesita alterar el contenido de una variable desde una función o cuando se trabaja con grandes cantidades de datos y se desea evitar copias innecesarias.
 
-> El programa define una función que intercambia los valores de dos variables usando pase por referencia. En el programa principal se asignan valores iniciales a dos números,  >se envían sus direcciones de memoria a la función y allí se intercambian los valores. Al finalizar, se muestran los nuevos valores ya cambiados.
+> El programa define una función que intercambia los valores de dos variables usando pase por referencia. En el programa principal se asignan valores iniciales a dos números,  se envían sus direcciones de memoria a la función y allí se intercambian los valores. Al finalizar, se muestran los nuevos valores ya cambiados.
 
 
 [🔗 Ejemplo](modularidad_referencia.c)
