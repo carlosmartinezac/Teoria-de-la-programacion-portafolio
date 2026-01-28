@@ -37,9 +37,9 @@ El pase por referencia permite que una función trabaje directamente con la vari
 
 Este tipo de paso se utiliza cuando se necesita alterar el contenido de una variable desde una función o cuando se trabaja con grandes cantidades de datos y se desea evitar copias innecesarias.
 
-🔗 Ejemplo en pseudocódigo: `modularidad_referencia.psc`  
-🔗 Ejemplo en diagrama de flujo: `modularidad_referencia.png`  
-🔗 Ejemplo en programa: `modularidad_referencia.c`
+[🔗 Ejemplo](modularidad_referencia.c)
+
+[🔗 Ejecución](modularidad_referencia.c)
 
 ---
 
