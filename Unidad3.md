@@ -13,7 +13,7 @@
 
 
 
-## ◆ Modularidad (teoría)
+## ◆ Modularidad
 
 La modularidad es una técnica de programación que consiste en dividir un programa en partes más pequeñas llamadas módulos, funciones o procedimientos. Cada módulo se encarga de realizar una tarea específica dentro del programa.
 
@@ -26,9 +26,9 @@ El pase por valor ocurre cuando una función recibe una copia de una variable. E
 
 Este tipo de paso de parámetros es útil cuando solo se necesita usar el dato para cálculos, pero no modificar el valor real.
 
-🔗 Ejemplo en pseudocódigo: `modularidad_valor.psc`  
-🔗 Ejemplo en diagrama de flujo: `modularidad_valor.png`  
-🔗 Ejemplo en programa: `modularidad_valor.c`
+[🔗 Ejemplo](modularidad_valor.c)
+
+[🔗 Ejecución](modularidad_valor.png)
 
 ---
 
@@ -42,11 +42,11 @@ Este tipo de paso se utiliza cuando se necesita alterar el contenido de una vari
 
 [🔗 Ejemplo](modularidad_referencia.c)
 
-[🔗 Ejecución](modularidad_referencia.c)
+[🔗 Ejecución](modularidad_referencia.png)
 
 ---
 
-## ◆ Arreglos (teoría)
+## ◆ Arreglos
 
 Un arreglo es una estructura de datos que permite almacenar varios valores del mismo tipo bajo un mismo nombre de variable. Cada valor se guarda en una posición identificada por un índice.
 
@@ -62,9 +62,9 @@ Un arreglo unidimensional, también llamado vector, almacena datos en una sola f
 
 Este tipo de arreglo se usa para trabajar con listas simples de datos, como notas de estudiantes, edades o precios.
 
-🔗 Ejemplo en pseudocódigo: `arreglo_vector.psc`  
-🔗 Ejemplo en diagrama de flujo: `arreglo_vector.png`  
-🔗 Ejemplo en programa: `arreglo_vector.c`
+[🔗 Ejemplo](arreglo_uni.c)
+
+[🔗 Ejecución](arreglo_uni.png)
 
 ---
 
@@ -74,22 +74,23 @@ Un arreglo bidimensional, conocido como matriz, organiza los datos en filas y co
 
 Las matrices se utilizan cuando la información tiene forma de tabla, como calificaciones de varios estudiantes en varias materias o datos organizados por filas y columnas.
 
-🔗 Ejemplo en pseudocódigo: `arreglo_matriz.psc`  
-🔗 Ejemplo en diagrama de flujo: `arreglo_matriz.png`  
-🔗 Ejemplo en programa: `arreglo_matriz.c`
+[🔗 Ejemplo](arreglo_bi.c)
+
+[🔗 Ejecución](arreglo_bi.png)
 
 ---
 
-### ● Arreglo tridimensional (cubo)
+### ● Arreglo tridimensional
 
 Un arreglo tridimensional es una estructura de datos que organiza la información en tres dimensiones.  
 Se puede imaginar como un conjunto de matrices apiladas, donde cada dato se identifica por tres índices: fila, columna y profundidad.
 
 Este tipo de arreglo se utiliza cuando se necesita representar información más compleja, como datos de temperaturas registradas en distintos días, horas y ciudades, o información almacenada en capas.
 
-🔗 Ejemplo en pseudocódigo: `arreglo_cubo.psc`  
-🔗 Ejemplo en diagrama de flujo: `arreglo_cubo.png`  
-🔗 Ejemplo en programa: `arreglo_cubo.c`
+[🔗 Ejemplo](arreglo_tri.c)
+
+[🔗 Ejecución](arreglo_tri.png)
+
 
 ---
 
