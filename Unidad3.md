@@ -77,6 +77,19 @@ Las matrices se utilizan cuando la información tiene forma de tabla, como calif
 
 ---
 
+### ● Arreglo tridimensional (cubo)
+
+Un arreglo tridimensional es una estructura de datos que organiza la información en tres dimensiones.  
+Se puede imaginar como un conjunto de matrices apiladas, donde cada dato se identifica por tres índices: fila, columna y profundidad.
+
+Este tipo de arreglo se utiliza cuando se necesita representar información más compleja, como datos de temperaturas registradas en distintos días, horas y ciudades, o información almacenada en capas.
+
+🔗 Ejemplo en pseudocódigo: `arreglo_cubo.psc`  
+🔗 Ejemplo en diagrama de flujo: `arreglo_cubo.png`  
+🔗 Ejemplo en programa: `arreglo_cubo.c`
+
+---
+
 ## ◆ Principales dificultades en la aplicación de los contenidos
 
 Durante el desarrollo de esta unidad, una de las principales dificultades fue comprender la diferencia entre funciones y procedimientos, así como entender cuándo utilizar cada uno. También resultó complejo asimilar el concepto de pase por referencia, ya que implica que los cambios hechos dentro de una función afectan directamente a la variable original.
@@ -95,15 +108,11 @@ También entendí cómo funcionan los arreglos y cómo permiten trabajar con mú
 
 ## ◆ Tareas entregadas
 
-- modularidad_valor.psc / modularidad_valor.c  
-- modularidad_referencia.psc / modularidad_referencia.c  
-- arreglo_vector.psc / arreglo_vector.c  
-- arreglo_matriz.psc / arreglo_matriz.c  
+### APE 1: [Ver evidencia en google drive](https://drive.google.com/file/d/1W_UHMy2Ucb_LVnHMkeGe236uKB_r1OPc/view?usp=drive_link)
+
+### AA 1: [Ver evidencia en google drive](https://drive.google.com/file/d/1xqDinok909-A7jyW8hWi06ZUHwvhIIPR/view?usp=drive_link)
 
 ---
 
-## ◆ Bibliografía y uso de IA
-
-Este trabajo fue elaborado con base en los contenidos revisados en clase y con apoyo de herramientas de inteligencia artificial utilizadas como guía para reforzar conceptos teóricos y mejorar la redacción del material.
 
 
