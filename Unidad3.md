@@ -26,6 +26,8 @@ El pase por valor ocurre cuando una función recibe una copia de una variable. E
 
 Este tipo de paso de parámetros es útil cuando solo se necesita usar el dato para cálculos, pero no modificar el valor real.
 
+> El programa utiliza una función que recibe un número por valor y lo duplica dentro de la función. Sin embargo, como el parámetro se pasa como copia, el valor original no se modifica fuera de la función. Al final se muestra que el número dentro de la función cambia, pero fuera de ella permanece igual.
+
 [🔗 Ejemplo](modularidad_valor.c)
 
 [🔗 Ejecución](modularidad_valor.png)
@@ -62,6 +64,9 @@ Un arreglo unidimensional, también llamado vector, almacena datos en una sola f
 
 Este tipo de arreglo se usa para trabajar con listas simples de datos, como notas de estudiantes, edades o precios.
 
+> El programa utiliza un arreglo unidimensional para almacenar cinco números enteros. Luego emplea un ciclo for para recorrer cada posición del arreglo y mostrar en pantalla el índice y el valor guardado en esa posición.
+
+
 [🔗 Ejemplo](arreglo_uni.c)
 
 [🔗 Ejecución](arreglo_uni.png)
@@ -73,6 +78,8 @@ Este tipo de arreglo se usa para trabajar con listas simples de datos, como nota
 Un arreglo bidimensional, conocido como matriz, organiza los datos en filas y columnas. Cada elemento se identifica por dos índices: uno para la fila y otro para la columna.
 
 Las matrices se utilizan cuando la información tiene forma de tabla, como calificaciones de varios estudiantes en varias materias o datos organizados por filas y columnas.
+
+> El programa utiliza un arreglo bidimensional (matriz) de 3 filas y 4 columnas para almacenar números enteros. Luego emplea dos ciclos for anidados para recorrer la matriz por filas y columnas, mostrando en pantalla la posición (fila y columna) y el valor almacenado en cada índice.
 
 [🔗 Ejemplo](arreglo_bi.c)
 
@@ -87,6 +94,8 @@ Se puede imaginar como un conjunto de matrices apiladas, donde cada dato se iden
 
 Este tipo de arreglo se utiliza cuando se necesita representar información más compleja, como datos de temperaturas registradas en distintos días, horas y ciudades, o información almacenada en capas.
 
+> El programa utiliza un arreglo tridimensional para almacenar números enteros organizados en 2 capas, cada una con 3 filas y 2 columnas. Luego emplea tres ciclos for anidados para recorrer todas las posiciones del arreglo, mostrando en pantalla la capa, la fila, la columna y el valor almacenado en cada índice.
+
 [🔗 Ejemplo](arreglo_tri.c)
 
 [🔗 Ejecución](arreglo_tri.png)
@@ -96,9 +105,9 @@ Este tipo de arreglo se utiliza cuando se necesita representar información más
 
 ## ◆ Principales dificultades en la aplicación de los contenidos
 
-Durante el desarrollo de esta unidad, una de las principales dificultades fue comprender la diferencia entre funciones y procedimientos, así como entender cuándo utilizar cada uno. También resultó complejo asimilar el concepto de pase por referencia, ya que implica que los cambios hechos dentro de una función afectan directamente a la variable original.
+Durante el desarrollo de esta unidad, una de las principales dificultades fue encontrar la lógica adecuada para decidir cuándo usar funciones y cómo aplicar correctamente el pase de parámetros según el problema planteado. Entender qué datos debían enviarse y cómo se modificaban dentro de las funciones requirió bastante análisis.
 
-En el tema de arreglos, fue un reto manejar correctamente los índices y evitar errores al recorrer vectores y matrices, especialmente al trabajar con ciclos anidados.
+En el tema de arreglos, también resultó un poco difícil comprender la organización de las ubicaciones, especialmente en los arreglos tridimensionales, ya que trabajar con varias dimensiones y posiciones al mismo tiempo hizo más complejo el manejo de los datos.
 
 ---
 
