@@ -47,6 +47,14 @@ Programación</h1>
 
 ## 🪄 Conclusiones  
 
+A lo largo de las tres unidades se logró comprender de manera progresiva cómo funciona la programación desde sus fundamentos hasta estructuras más avanzadas. En la primera unidad se aprendió la importancia de planificar soluciones mediante algoritmos, pseudocódigo y diagramas de flujo, lo cual permitió desarrollar una base sólida de pensamiento lógico antes de escribir código.
+
+En la segunda unidad se profundizó en el uso de estructuras condicionales y repetitivas, entendiendo cómo estas permiten que un programa tome decisiones y repita procesos según distintas situaciones. Aunque al inicio fue complejo combinar estas estructuras correctamente, la práctica ayudó a mejorar la lógica y el control del flujo del programa.
+
+Finalmente, en la tercera unidad se comprendió la importancia de la modularidad y el uso de arreglos para organizar mejor los programas y manejar grandes cantidades de datos. El trabajo con funciones, el pase de parámetros y los arreglos multidimensionales permitió desarrollar programas más ordenados, claros y eficientes.
+
+En conjunto, estas unidades fortalecieron la capacidad de análisis, la lógica de programación y la comprensión del funcionamiento interno de los programas, sentando una base firme para continuar aprendiendo conceptos más avanzados en el desarrollo de software.
+
 ---
 
 ## 📚 Referencias  
